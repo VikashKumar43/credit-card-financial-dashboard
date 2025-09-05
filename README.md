@@ -36,5 +36,5 @@ This project demonstrates the complete workflow of building a **Power BI Dashboa
 - **Excel/CSV** → Raw datasets  
 
 ---
-![Credit_card_customer](images/Credit_card_customer.jpeg)
-![Credit_card_transaction](images/Credit_card_trans.jpeg)
+![Credit_card_customer](images/Credit_card_customer1.jpeg)
+![Credit_card_transaction](images/Credit_card_trans1.jpeg)
